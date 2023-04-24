@@ -1,0 +1,3 @@
+Edge justification
+
+For this data set each the OTU are the individual fungal species. I will use correlation 

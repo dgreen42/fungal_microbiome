@@ -1,0 +1,71 @@
+#NAME,ROOT SAMPLE ID,TREATMENT
+A10,1,Commercial Inoculum
+A11,30,Commercial Inoculum
+A12,350,Native soil
+A1,147,BB Control
+A2,199,Peat Control
+A3,158,BB Control
+A4,42,Commercial Inoculum
+A5,36,Commercial Inoculum
+A6,101,Combined Inoculum + Native
+A7,117,Peat Control
+A8,161,Native soil
+A9,10,Commercial Inoculum
+B10,175,Peat Control
+B11,346,Native soil
+B12,108,Peat Control
+B1,182,Native soil
+B2,113,Combined Inoculum + Native
+B3,347,Native soil
+B4,26,Commercial Inoculum
+B5,52,Combined Inoculum + Native
+B6,220,Peat Control
+B7,260,Native soil
+B8,185,Peat Control
+B9,4,Commercial Inoculum
+C10,140,BB Control
+C11,28,Commercial Inoculum
+C12,356,Native soil
+C1,232,BB Control
+C2,110,Peat Control
+C3,371,Native soil
+C4,100,BB Control
+C5,79,Combined Inoculum + Native
+C6,3,Commercial Inoculum
+C7,56,Combined Inoculum + Native
+C8,234,Native soil
+C9,103,Combined Inoculum + Native
+D10,349,Native soil
+D12,49,Combined Inoculum + Native
+D1,352,BB Control
+D2,345,BB Control
+D3,23,Commercial Inoculum
+D4,69,Combined Inoculum + Native
+D5,241,BB Control
+D6,29,Combined Inoculum + Native
+D7,112,Peat Control
+D8,40,Commercial Inoculum
+D9,22,Combined Inoculum + Native
+E10,246,Native soil
+E11,39,Commercial Inoculum
+E12,336,Native soil
+E1,353,BB Control
+E2,48,Combined Inoculum + Native
+E3,228,BB Control
+E4,93,Peat Control
+E5,354,BB Control
+E6,156,BB Control
+E7,357,Native soil
+E8,176,Peat Control
+E9,114,BB Control
+F10,88,BB Control
+F1,35,Commercial Inoculum
+F2,37,Commercial Inoculum
+F3,43,Combined Inoculum + Native
+F4,358,Native soil
+F6,238,BB Control
+F7,311,Native soil
+F8,41,Commercial Inoculum
+D11,54,Combined Inoculum + Native
+F5,62,BB Control
+F9,27,Combined Inoculum + Native

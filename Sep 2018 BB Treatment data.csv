@@ -1,0 +1,71 @@
+#NAME,Root ID,Treatment ID,TREATMENT
+SA10,93,B,Peat Control
+SA11,88,A,BB Control
+SA12,23,C,Commercial Inoculum
+SA1,27,D,Combined Inoculum + native
+SA2,42,C,Commercial Inoculum
+SA3,56,D,Combined Inoculum + native
+SA4,1,C,Commercial Inoculum
+SA5,371,E,Native soil
+SA6,112,B,Peat Control
+SA7,158,A,BB Control
+SA8,29,D,Combined Inoculum + native
+SA9,232,A,BB Control
+SB10,199,B,Peat Control
+SB11,354,A,BB Control
+SB12,238,A,BB Control
+SB1,336,E,Native soil
+SB2,349,E,Native soil
+SB3,22,D,Combined Inoculum + native
+SB4,161,E,Native soil
+SB5,347,E,Native soil
+SB6,101,D,Combined Inoculum + native
+SB7,241,A,BB Control
+SB8,28,C,Commercial Inoculum
+SB9,35,C,Commercial Inoculum
+SC10,79,D,Combined Inoculum + native
+SC12,117,B,Peat Control
+SC1,350,E,Native soil
+SC2,182,E,Native soil
+SC3,113,D,Combined Inoculum + native
+SC4,357,E,Native soil
+SC5,260,E,Native soil
+SC6,185,B,Peat Control
+SC7,246,E,Native soil
+SC8,147,A,BB Control
+SC9,175,B,Peat Control
+SD10,140,A,BB Control
+SD11,52,D,Combined Inoculum + native
+SD12,39,C,Commercial Inoculum
+SD1,345,A,BB Control
+SD2,36,C,Commercial Inoculum
+SD3,358,E,Native soil
+SD4,48,D,Combined Inoculum + native
+SD5,220,B,Peat Control
+SD7,311,E,Native soil
+SD8,100,A,BB Control
+SD9,114,A,BB Control
+SE10,3,C,Commercial Inoculum
+SE1,228,A,BB Control
+SE2,54,D,Combined Inoculum + native
+SE3,41,C,Commercial Inoculum
+SE4,10,C,Commercial Inoculum
+SE6,234,E,Native soil
+SE7,49,D,Combined Inoculum + native
+SE8,62,A,BB Control
+SE9,37,C,Commercial Inoculum
+SF11,43,D,Combined Inoculum + native
+SF12,356,E,Native soil
+SF1,4,C,Commercial Inoculum
+SF2,176,B,Peat Control
+SF3,10,C,Commercial Inoculum
+SF4,147,A,BB Control
+SF5,30,C,Commercial Inoculum
+SF7,110,B,Peat Control
+SF8,103,D,Combined Inoculum + native
+SG1,156,A,BB Control
+SG2,3,C,Commercial Inoculum
+SG3,15,A,BB Control
+SG4,352,A,BB Control
+SC11,346,E,Native soil
+SE11,108,B,Peat Control
